@@ -42,6 +42,6 @@ Upload the spark_job_pipeline.yaml file
 
 ![image](/images/start_run.png)
 
-# Wait till the execution is finished check the `print-message` logs to view the result
+# Wait till the execution is finished. check the `print-message` logs to view the result
 
 ![image](/images/final-output.png)
