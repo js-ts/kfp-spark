@@ -1,3 +1,6 @@
+KFP version: 1.7.0+
+Kubernetes version: 1.17+
+
 # Orchestrate Spark Jobs using Kubeflow pipelines
 
 ## Install kubeflow pipelines standalone or full kubeflow 
